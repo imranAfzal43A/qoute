@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 import { StatusBar } from 'expo-status-bar';
 import { Surface, AppBar, ActivityIndicator } from "@react-native-material/core";
-import { Text, View, Image, TouchableOpacity, FlatList, Pressable } from 'react-native';
+import { Text, View, Image, TouchableOpacity, FlatList } from 'react-native';
 import axios from 'axios';
 import styles from '../styles';
 export default function ShowQoute() {
