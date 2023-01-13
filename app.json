@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "qoute",
-    "slug": "qoute",
+    "name": "Quote",
+    "slug": "qoute-motivation",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -32,8 +32,12 @@
     },
     "extra": {
       "eas": {
-        "projectId": "efeafa4d-ce47-4751-b1e1-3ac0adb5d029"
+        "projectId": "1ba4da8b-f148-4c35-b9bc-3f82542740b9"
       }
-    }
+    },
+    "owner": "imrandev"
+  },
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-5205427700494339~1928412345"
   }
 }
